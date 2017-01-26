@@ -1,0 +1,35 @@
+city,population,crime,homicides,state
+Hayward,157157,556,10,CA
+Hemet,84030,605,10,CA
+Pomona3,154410,792,10,CA
+Riverside,323064,"1,441",10,CA
+Tulare,62475,303,10,CA
+Merced,82409,763,11,CA
+Oxnard,207221,920,12,CA
+Santa Ana3,337304,"1,626",12,CA
+Compton,99125,988,13,CA
+Santa Maria,104355,463,13,CA
+El Paso,686077,"2,515",17,TX
+Anaheim3,349471,"1,271",18,CA
+Vallejo,121257,"1,031",18,CA
+Bakersfield,373887,"1,810",22,CA
+Syracuse,144027,"1,142",22,NY
+Modesto,210794,"2,025",25,CA
+San Jose,1031458,"3,400",30,CA
+Rochester,209922,"1,839",33,NY
+Long Beach,476318,"2,766",36,CA
+San Diego,1400467,"5,582",37,CA
+Fresno,520837,"2,871",39,CA
+Salinas,158185,"1,098",40,CA
+Buffalo,258096,"2,887",41,NY
+Sacramento,489717,"3,611",43,CA
+San Bernardino,216477,"2,697",44,CA
+Stockton,304890,"4,122",49,CA
+San Francisco,863782,"6,710",53,CA
+Fort Worth,829731,"4,359",56,TX
+Oakland,419481,"6,051",85,CA
+Dallas,1301977,"9,038",136,TX
+Los Angeles,3962726,"25,156",282,CA
+Houston,2275221,"21,994",303,TX
+New York,8550861,"50,088",352,NY
+Chicago,2728695,"24,663",478,IL

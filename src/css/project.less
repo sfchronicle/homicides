@@ -1,0 +1,22 @@
+.tooltip {
+  position: absolute;
+  background: white;
+  padding: 15px;
+  font-size: 14px;
+  font-family: @block-graphics;
+  .bold {
+    font-family: @med-graphics;
+  }
+  -webkit-box-shadow: 0 0 6px @dark-gray;
+  -moz-box-shadow: 0 0 6px @dark-gray;
+  box-shadow: 0 0 6px @dark-gray;
+  &.hide {
+    display: none;
+  }
+  @media @mobile {
+    position: relative;
+    // width: 90%;
+    margin: auto;
+    margin-top: 20px;
+  }
+}
