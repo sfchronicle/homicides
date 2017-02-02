@@ -107,7 +107,7 @@ var svg = d3.select(".bubble-graph").append("svg")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 console.log(bubbleData);
-x.domain([50,9000])
+x.domain([50,5000])
 // x.domain(d3.extent([parseYear(2010),parseYear(2017)]));//.nice();
 y.domain([-10,500]); //.nice();
 
@@ -119,7 +119,7 @@ svg.selectAll(".dot")
     .data(bubbleData)
     .enter().append("circle")
     .attr("r", function(d) {
-      return 10;
+      return 7;
       // if (screen.width <= 480) {
       //   return d.Number/50000;//(d.NumberEmerg/1400)+5;
       // } else {
